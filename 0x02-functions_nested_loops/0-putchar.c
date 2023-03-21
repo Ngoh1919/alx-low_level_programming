@@ -1,10 +1,10 @@
 #include "main.h"
-	/**
-	 * main - prints the word putchar
-	 * Description: 'the program's description'
-	 * @parameter: describe the parameter
-	 * Return: Always 0 (Success)
-	 */
+/**
+* main - prints the word putchar
+* Description: 'the program's description'
+* @parameter: describe the parameter
+* Return: Always 0 (Success)
+*/
 
 
 	int main(void)
